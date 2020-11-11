@@ -1,9 +1,9 @@
 # DrawingWebApp.github.io
-Drawing App using HTML5 canvas and JQuery UI . Link:
-![DrawingWebApp](https://user-images.githubusercontent.com/55108788/98785293-62cca980-2422-11eb-8868-e4cb455c1577.png)
 > A clean, beautiful, Drawing website with features to choose color, brush size, erase, save, and edit Drawings!
-https://roshan13046.github.io/DrawingWebApp.github.io/
-### Website Preview
+![DrawingWebApp](https://user-images.githubusercontent.com/55108788/98785293-62cca980-2422-11eb-8868-e4cb455c1577.png)
+
+
+### Website Preview : https://roshan13046.github.io/DrawingWebApp.github.io/
 
 ## Features 📋
 
