@@ -6,9 +6,13 @@ https://roshan13046.github.io/DrawingWebApp.github.io/
 ### Website Preview
 
 ## Features 📋
+
 ⚡️ Drawing Area to do rough work and draw any image.
+
 ⚡️ It has feature to choose Brush Size and Brush color.
+
 ⚡️ User can draw the Image and Save it using Local Storage.
+
 ⚡️ User can erase using eraser.
 
 ## Installation & Deployment 📦
